@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fcm"
+name = "fcm_mpmath"
 version = "0.1.0"
 description = ""
 authors = ["Anderson Alencar <alencarbarros@protonmail.com>"]
