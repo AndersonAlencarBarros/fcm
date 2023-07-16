@@ -179,7 +179,6 @@ class FCM:
 
 
 if __name__ == "__main__":
-
     X = np.array(
         [
             [1, 3],
