@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "fcm_mpmath"
-version = "0.1.2"
+version = "0.1.3"
 description = ""
 authors = ["Anderson Alencar <alencarbarros@protonmail.com>"]
 readme = "README.md"
