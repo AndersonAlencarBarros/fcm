@@ -47,3 +47,11 @@ print(fcm.centers)
 ```
  
 
+
+## Referências
+
+
+```
+BEZDEK, J. C.; EHRLICH, R.; FULL, W. Fcm: The fuzzy c-means clustering algorithm.
+Computers & geosciences, Elsevier, v. 10, n. 2-3, p. 191–203, 1984. 
+```
